@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Environment folders
+env/
+venv/
+.venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+
+# Python virtual environment configuration
+Pipfile
+Pipfile.lock
+
+# Compiled Python files
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Testing and Coverage
+.coverage
+.pytest_cache/
+
+# IDE settings
+.idea/
