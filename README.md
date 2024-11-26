@@ -37,3 +37,5 @@ python main.py
 Contribution
 Feel free to contribute by submitting pull requests or opening issues. Let's improve this project together!
 
+## Tags
+#Python #Tkinter #EmployeeManagement #TimeTracking #DesktopApp #OpenSource #SQLite #EmployeeTimekeeper
